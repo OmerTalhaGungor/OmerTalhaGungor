@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D12AQFEIrdgrKAoyA/article-cover_image-shrink_600_2000/0/1682925257704?e=2147483647&v=beta&t=OzvdNfia13rexhsbEkvivZaEjZutgo5EaKDRRzzyTfk)
 
 <h1 align="center">Hi 👋, I'm ÖmerTalhaGüngör</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a web design student and I want to improve myself in this field.</h3>
 
 - 📫 How to reach me **omertalhagungor205@gmail.com**
 
